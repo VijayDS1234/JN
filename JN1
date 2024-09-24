@@ -1,0 +1,12 @@
+# Multiplication and Addition of Numbers
+# Example: multiplying 4 and 5, then adding 3
+
+# Multiplication
+multiplication_result = 4 * 5
+
+# Addition
+addition_result = multiplication_result + 3
+
+# Display results
+print("Multiplication Result (4 * 5):", multiplication_result)
+print("Addition Result (Multiplication Result + 3):", addition_result)
